@@ -1,8 +1,8 @@
-{
+[
     {
         "name": "TazTest",
         "type": "plugin",
         "version": "1.0.0.0",
         "url":  "https://github.com/XTazFR/ZatVersions/releases/download/v1.0.0.0/test.txt"
     }
-}
+]
