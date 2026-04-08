@@ -18,6 +18,12 @@
         "url":  "https://github.com/XTazFR/ZatVersions/releases/download/v1.0.0.0/test.txt"
     },
     {
+        "name": "ZatCarState",
+        "type": "dashboard",
+        "version": "1.3",
+        "url":  "https://github.com/XTazFR/ZatVersions/releases/download/v1.0.0.0/test.txt"
+    },
+    {
         "name": "Zat NOT INSTALLED",
         "type": "dashboard",
         "version": "0.0.0.1",
